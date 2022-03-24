@@ -1,0 +1,6 @@
+C:\Users\matiwa\source\repos\NetInfo\NetInfo\bin\Debug\NetInfo.exe
+C:\Users\matiwa\source\repos\NetInfo\NetInfo\bin\Debug\NetInfo.pdb
+C:\Users\matiwa\source\repos\NetInfo\NetInfo\obj\Debug\NetInfo.csprojAssemblyReference.cache
+C:\Users\matiwa\source\repos\NetInfo\NetInfo\obj\Debug\NetInfo.csproj.CoreCompileInputs.cache
+C:\Users\matiwa\source\repos\NetInfo\NetInfo\obj\Debug\NetInfo.exe
+C:\Users\matiwa\source\repos\NetInfo\NetInfo\obj\Debug\NetInfo.pdb
